@@ -2,6 +2,9 @@
 
 ![aaa](https://github.com/user-attachments/assets/9bab4af5-e828-4546-91d6-084676cb1e55)
 
+Eğer detaylı bir şekilde izlemek isterseniz linki bırakıyorum aşağıya:
+https://www.youtube.com/watch?v=Hk3QtBXftWE
+
 
 ## Özet (Executive summary)
 

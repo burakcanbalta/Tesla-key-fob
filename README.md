@@ -16,8 +16,6 @@ Bu kolaylık aynı zamanda **saldırganlara** yeni yüzeyler açar: radyo protok
 
 ## 2. Saldırı türleri (taxonomy) — yüksek seviyede
 
-Aşağıdaki başlıklar saldırı sınıflarıdır. Her biri için mantık, olası hedefler ve neden tehlikeli olduğu açıklanır.
-
 ### 2.1 Relay (röle) saldırıları
 
 * **Tanım (yüksek seviye):** Yetkili cihaz ile araç arasındaki radyo sinyalini iki nokta arasında iletme (bir nevi sinyal uzatma). Bu sayede araç, anahtarın menzilinde olduğunu düşünür.
@@ -104,7 +102,7 @@ Aşağıdaki başlıklar saldırı sınıflarıdır. Her biri için mantık, ola
 
 ## 7. Tespit, adli (forensics) ipuçları — neler bakılır?
 
-Yine, sadece savunma amaçlı teknik izleme önerileri:
+Teknik izleme önerileri:
 
 * **Anahtar eşleştirme/kaydı değişiklikleri:** Araç tarihçesinde beklenmeyen yeni fob eşleştirmeleri.
 * **Gateway/telematik bağlantı kayıtları:** Olağandışı Wi‑Fi SSID, yetkisiz OTA denemeleri.

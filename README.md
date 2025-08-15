@@ -1,5 +1,8 @@
 # Tesla Key Fob Saldırıları
 
+![aaa](https://github.com/user-attachments/assets/9bab4af5-e828-4546-91d6-084676cb1e55)
+
+
 ## Özet (Executive summary)
 
 Kısa: Tesla araçlarının pasif anahtarsız giriş (Passive Keyless Entry & Start — PKES) ve telefon‑anahtarlık (phone-as-key) sistemlerinde 2016'dan itibaren bir dizi farklı güvenlik zafiyeti tespit edildi: zayıf/özel kriptografi (DST40), konfigürasyon/downgrade hataları, imzasız/yanlış doğrulanan firmware güncellemeleri, ve Bluetooth Low Energy (BLE) üzerinden gelişmiş röle (relay) yöntemleri. Ayrıca araç içi bileşenlere pivot yaparak CAN bus'a erişim sağlayan zincir zafiyetler de gösterildi. Bu raporda hem tarihçe hem de teknik neden‑sonuç ilişkileri, kullanılan saldırı türleri sınıflaması, araştırma‑düzeyinde kullanılan donanım kategorileri, tespit/adalet (forensics) işaretleri ve mühendislik / kullanıcı odaklı önlemler anlatılmaktadır.

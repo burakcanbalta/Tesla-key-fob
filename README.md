@@ -137,9 +137,7 @@ Yine, sadece savunma amaçlı teknik izleme önerileri:
 
 ---
 
-## 10. Konseptual adım adım (Saldırı akışlarının **konseptual** gösterimi — *uygulama adımı içermez*)
-
-> Aşağıdaki akışlar, bir savunmacının veya araştırmacının saldırı yüzeyini anlamasına yardımcı olacak konseptual (yüksek seviyeli) adım‑adım açıklamalardır.
+## 10. Konseptual adım adım (Saldırı akışlarının **konseptual** gösterimi
 
 ### 10.1 Relay (Röle) — Konseptual adımlar
 1. **Hazırlık:** Saldırgan, hedef bölgede iki iletişim noktası belirler: araç yakınında bir cihaz (vehicle‑side) ve anahtar/telefon yakınında bir cihaz (key‑side).
@@ -159,7 +157,7 @@ Yine, sadece savunma amaçlı teknik izleme önerileri:
 
 ---
 
-## 11. Güvenli laboratuvar test planı (savunmacılar için, yetkilendirilmiş)
+## 11. Güvenli laboratuvar test planı
 
 **Adım 1 — İzin & yönetim:** Test için açık yazılı izin/lojistik sağlanır; scope, zaman çizelgesi ve rollback planı belirlenir.
 
@@ -177,7 +175,7 @@ Yine, sadece savunma amaçlı teknik izleme önerileri:
 
 ---
 
-## 12. Uygulama ve ürün ek önerileri (mühendislik roadmap)
+## 12. Uygulama ve ürün ek önerileri
 
 1. **UWB prototipi entegrasyonu:** Distance bounding deneyleri başlatın; fiziksel layer testleriyle relay toleranslarını ölçün.
 2. **Fob tasarımında secure element kullanımı:** Anahtarların donanım‑bazlı güvenli saklanması sağlanmalı.

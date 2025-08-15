@@ -112,8 +112,6 @@ Yine, sadece savunma amaçlı teknik izleme önerileri:
 * **Fob/telefon tarafı kayıtları:** Mobil uygulama kimlik doğrulama zamanları, şüpheli yeniden bağlanma olayları.
 * **RSSI / distance metrics logları:** Ani ve fiziksel olarak tutarsız mesafe okumaları.
 
-Bu veriler olay sonrası analizde olay zincirinin yeniden kurulmasına yardımcı olur.
-
 ---
 
 ## 8. Mühendislik / ürün tasarımında alınabilecek önlemler

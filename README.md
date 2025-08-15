@@ -137,7 +137,7 @@ Yine, sadece savunma amaçlı teknik izleme önerileri:
 
 ---
 
-## 10. Konseptual adım adım (Saldırı akışlarının **konseptual** gösterimi
+## 10. Konseptual adım adım (Saldırı akışlarının **konseptual** gösterimi)
 
 ### 10.1 Relay (Röle) — Konseptual adımlar
 1. **Hazırlık:** Saldırgan, hedef bölgede iki iletişim noktası belirler: araç yakınında bir cihaz (vehicle‑side) ve anahtar/telefon yakınında bir cihaz (key‑side).
